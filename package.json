@@ -1,0 +1,11 @@
+{
+  "name": "node-todo",
+  "version": "0.0.1",
+  "main": "index.js",
+  "type": "commonjs",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.4.0",
+    "inquirer": "^8.0.0"
+  }
+}
